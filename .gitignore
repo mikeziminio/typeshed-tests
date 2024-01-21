@@ -1,5 +1,8 @@
 .typeshed/
 .idea/
 .vscode/
-__pycache__
+.venv/
+__pycache__/
+
+
 
